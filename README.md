@@ -6,7 +6,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone url
+   git clone https://github.com/pravin435916/React_Router_6_Project.git
    npm install
    npm run dev
 and that's it . here you can access .
