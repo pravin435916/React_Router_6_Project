@@ -1,8 +1,12 @@
-# React + Vite
+# My Awesome React Project with React Router v6
+## This is a user-friendly single-page application (SPA) built with React and React Router v6. It helps you to understanding the router 6 version .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
 
-Currently, two official plugins are available:
+1. **Clone the Repository:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ```bash
+   git clone url
+   npm install
+   npm run dev
+and that's it . here you can access .
